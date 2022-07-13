@@ -1,6 +1,6 @@
 ## Car Rental System
 
-  <img src = "https://github.com/blue-moon02/Car-Rental-System/blob/master/presentation_.gif" width = "600px" />
+  <img src = "https://github.com/blue-moon02/Car-Rental-System/blob/master/presentation_.gif" width = "400px" />
 
 
 This project used Qt creator 5.8.0, and is divided into 8 classes, the start one is login class.
